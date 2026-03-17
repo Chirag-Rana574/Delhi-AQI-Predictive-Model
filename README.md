@@ -1,5 +1,4 @@
 # Delhi-AQI-Predictive-Model
-# Delhi PM2.5 Predictive Dashboard
 
 ![Dashboard Demo](Delhi%20aqi%20project.gif)
 
