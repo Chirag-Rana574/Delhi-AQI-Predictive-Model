@@ -1,6 +1,6 @@
 # Delhi-AQI-Predictive-Model
 
-![Dashboard Demo](Delhi%20aqi%20project.gif)
+![Dashboard Demo](Screenshots/Delhi%20aqi%20project.gif)
 
 ## 📋 Project Overview
 Urban air quality is a critical public health challenge. This project moves beyond basic historical analysis by using machine learning to predict PM2.5 pollution spikes across six major monitoring stations in Delhi. The goal is to provide a functional, data-driven tool that can help shift urban planning from reactive to proactive.
